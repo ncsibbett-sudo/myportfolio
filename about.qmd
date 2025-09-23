@@ -19,45 +19,48 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I’m a product-minded builder with a passion for solving real problems through thoughtful, user-centered design. While in BYU’s Sandbox program, I led the development and go-to-market efforts for an asset management tool tailored to private equity firms. Over the course of a year, I worked closely with end users to identify pain points, translate insights into product requirements, and deliver solutions that improved their workflows.
+
+This experience sharpened my skills in product discovery, user research, stakeholder communication, and iterative development. I thrive at the intersection of user needs, business goals, and technical feasibility—and I’m energized by the challenge of turning complex problems into intuitive products.
 
 ### Education
 
-- **Busines Strategy**, BYU 2026
+- **Business Strategy**, BYU 2026
 - **Relevant Coursework**: List key courses related to product management, analytics, or business
 - **Academic Achievements**: Honor societies, relevant projects, or awards
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Ecommerce Manager - Andar Leather Goods
+*Apr 2025 - Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Managed product development and marketing teams to deploy new distribution methods projected to increase annual revenue by 3%
+- Designed, tested, and shipped low-fidelity prototypes to validate assumptions and improve conversion flows, boosting performance by 1%
+- Overhauled Shopify design tools, reducing time-to-launch for landing pages by 30%
 
-#### Another Position - Company Name
-*Dates*
+#### Co-Founder, Product Manager - Angler Data
+*Sep 2024 - Jun 2025*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Spearheaded product development, initial customer acquisition, and partnership/integration with 10+ data systems
+- Developed and implemented business strategies regarding market research, team leadership, and operational workflows, resulting in a successful MVP launch with five active users
+- Synthesized qualitative insights into clear feature requirements, prioritizing development based on impact and technical feasibility
+- Co-developed front-end using HTML, Python, and JavaScript, for rapid iteration of user-facing workflows
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
+- Programming languages (Python, HTML, SQL)
 - Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Product management tools (Jira, Figma)
 
 **Soft Skills**
-- Communication and presentation
+- Leadership
 - Cross-functional collaboration
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+Skiing, Mountain Biking, and Trail Running
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I am looking for opportunities in Product Management.
