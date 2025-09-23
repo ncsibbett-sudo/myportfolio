@@ -4,7 +4,7 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Nate Sibbett Profile Photo" class="rounded-circle mb-3" width="160" height="160" style="object-fit: cover;">
 
 <h1>Nate Sibbett</h1>
 
