@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Nate Sibbett</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/nathan-sibbett-product-manager/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/ncsibbett-sudo" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -23,7 +23,7 @@ Write a compelling narrative about your background, education, and what drives y
 
 ### Education
 
-- **Degree Name**, University Name (Year)
+- **Busines Strategy**, BYU 2026
 - **Relevant Coursework**: List key courses related to product management, analytics, or business
 - **Academic Achievements**: Honor societies, relevant projects, or awards
 
