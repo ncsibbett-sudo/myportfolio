@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "README_temp.html",
+    "href": "README_temp.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Portfolio"
+  },
+  {
+    "objectID": "projects/project-5.html",
+    "href": "projects/project-5.html",
+    "title": "Project 5",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your fifth project."
+  },
+  {
+    "objectID": "projects/project-5.html#project-overview",
+    "href": "projects/project-5.html#project-overview",
+    "title": "Project 5",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your fifth project."
+  },
+  {
+    "objectID": "projects/project-5.html#challenge",
+    "href": "projects/project-5.html#challenge",
+    "title": "Project 5",
+    "section": "Challenge",
+    "text": "Challenge\nDescribe the specific challenge or problem you were addressing."
+  },
+  {
+    "objectID": "projects/project-5.html#approach",
+    "href": "projects/project-5.html#approach",
+    "title": "Project 5",
+    "section": "Approach",
+    "text": "Approach\nDetail your methodology and approach to solving the problem."
+  },
+  {
+    "objectID": "projects/project-5.html#results",
+    "href": "projects/project-5.html#results",
+    "title": "Project 5",
+    "section": "Results",
+    "text": "Results\nPresent your findings, outcomes, and impact."
+  },
+  {
+    "objectID": "projects/project-5.html#skills-demonstrated",
+    "href": "projects/project-5.html#skills-demonstrated",
+    "title": "Project 5",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nList the key skills this project showcases.\n\nSkills Demonstrated: [Your skills here]\nTools Used: [Your tools here]"
+  },
+  {
+    "objectID": "projects/project-3.html",
+    "href": "projects/project-3.html",
+    "title": "Market Entry Strategy Analysis",
+    "section": "",
+    "text": "Summarize the market entry challenge and your role in developing the strategy. What new market or product category were you analyzing?"
+  },
+  {
+    "objectID": "projects/project-3.html#project-overview",
+    "href": "projects/project-3.html#project-overview",
+    "title": "Market Entry Strategy Analysis",
+    "section": "",
+    "text": "Summarize the market entry challenge and your role in developing the strategy. What new market or product category were you analyzing?"
+  },
+  {
+    "objectID": "projects/project-3.html#executive-summary",
+    "href": "projects/project-3.html#executive-summary",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nProvide a high-level overview of your recommendations and the expected impact. This section should be accessible to both technical and business stakeholders."
+  },
+  {
+    "objectID": "projects/project-3.html#market-analysis",
+    "href": "projects/project-3.html#market-analysis",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Market Analysis",
+    "text": "Market Analysis\n\nIndustry Landscape\n\nWhat is the size and growth rate of the target market?\nWho are the major players and what market share do they hold?\nWhat are the key industry trends and drivers?\n\n\n\nCompetitive Analysis\n\nWho are your direct and indirect competitors?\nWhat are their strengths, weaknesses, and market positioning?\nWhere are the gaps and opportunities?\n\n\n\nCustomer Analysis\n\nWho is your target customer?\nWhat are their needs, pain points, and preferences?\nHow do they currently solve the problem you’re addressing?"
+  },
+  {
+    "objectID": "projects/project-3.html#strategic-framework",
+    "href": "projects/project-3.html#strategic-framework",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Strategic Framework",
+    "text": "Strategic Framework\n\nMarket Opportunity\n\nWhat specific opportunity did you identify?\nHow large is the addressable market?\nWhat factors make this the right time to enter?\n\n\n\nValue Proposition\n\nWhat unique value does your product/service offer?\nHow does it differentiate from existing solutions?\nWhy would customers choose you over alternatives?\n\n\n\nGo-to-Market Strategy\n\nWhat channels will you use to reach customers?\nHow will you price your offering?\nWhat partnerships or alliances are needed?"
+  },
+  {
+    "objectID": "projects/project-3.html#research-methodology",
+    "href": "projects/project-3.html#research-methodology",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Research Methodology",
+    "text": "Research Methodology\n\nData Sources\n\nWhat primary research did you conduct?\nWhich secondary sources did you leverage?\nHow did you ensure data quality and reliability?\n\n\n\nAnalysis Techniques\n\nWhat frameworks did you apply (Porter’s Five Forces, SWOT, etc.)?\nWhich quantitative and qualitative methods did you use?\nHow did you validate your assumptions?"
+  },
+  {
+    "objectID": "projects/project-3.html#key-findings",
+    "href": "projects/project-3.html#key-findings",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nMarket Insights\nPresent your 3-5 most important discoveries:\n\nInsight #1: Description and implications\nInsight #2: Description and implications\n\nInsight #3: Description and implications\n\n\n\nCustomer Insights\n\nWhat did you learn about customer behavior and preferences?\nWhat unmet needs did you identify?\nHow price-sensitive is the target market?"
+  },
+  {
+    "objectID": "projects/project-3.html#strategic-recommendations",
+    "href": "projects/project-3.html#strategic-recommendations",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Strategic Recommendations",
+    "text": "Strategic Recommendations\n\nMarket Entry Approach\n\nWhat entry strategy do you recommend (direct, partnership, acquisition)?\nWhat should be the geographic focus?\nWhat’s the optimal timing for launch?\n\n\n\nProduct Strategy\n\nWhat features should be prioritized for launch?\nHow should the product be positioned?\nWhat pricing strategy will maximize adoption?\n\n\n\nResource Requirements\n\nWhat investment is needed?\nWhat capabilities must be developed?\nWhat partnerships are critical for success?"
+  },
+  {
+    "objectID": "projects/project-3.html#implementation-roadmap",
+    "href": "projects/project-3.html#implementation-roadmap",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Implementation Roadmap",
+    "text": "Implementation Roadmap\n\nPhase 1: Foundation (Months 1-3)\n\nKey activities and milestones\nResource requirements\nSuccess metrics\n\n\n\nPhase 2: Launch (Months 4-9)\n\nGo-to-market execution\nCustomer acquisition strategy\nPerformance monitoring\n\n\n\nPhase 3: Scale (Months 10-18)\n\nExpansion opportunities\nOptimization initiatives\nLong-term growth strategy"
+  },
+  {
+    "objectID": "projects/project-3.html#risk-assessment",
+    "href": "projects/project-3.html#risk-assessment",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Risk Assessment",
+    "text": "Risk Assessment\n\nKey Risks\n\nWhat are the primary threats to success?\nHow likely are these risks to materialize?\nWhat would be the potential impact?\n\n\n\nMitigation Strategies\n\nHow can each risk be reduced or eliminated?\nWhat contingency plans should be developed?\nWhat early warning indicators should be monitored?"
+  },
+  {
+    "objectID": "projects/project-3.html#expected-outcomes",
+    "href": "projects/project-3.html#expected-outcomes",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Expected Outcomes",
+    "text": "Expected Outcomes\n\nFinancial Projections\n\nWhat revenue potential do you forecast?\nWhat are the key cost drivers?\nWhen do you expect to reach profitability?\n\n\n\nSuccess Metrics\n\nHow will you measure progress and success?\nWhat leading and lagging indicators will you track?\nWhat are the key performance benchmarks?"
+  },
+  {
+    "objectID": "projects/project-3.html#conclusion",
+    "href": "projects/project-3.html#conclusion",
+    "title": "Market Entry Strategy Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\nSummarize your recommendations and their strategic importance. Emphasize the opportunity size, competitive advantages, and expected returns on investment.\n\nSkills Demonstrated: Market Research, Strategic Analysis, Business Planning, Financial Modeling, Competitive Intelligence, Stakeholder Communication\nTools Used: Excel, Tableau, Survey Tools, Industry Databases, Financial Modeling Software"
+  },
+  {
+    "objectID": "projects/project-1.html",
+    "href": "projects/project-1.html",
+    "title": "Penguin Surf Dash",
+    "section": "",
+    "text": "Penguin Surf Dash is an endless runner game inspired by Temple Run, where players control a penguin skiing down icy slopes through procedurally generated obstacles. Built with vanilla JavaScript and HTML5 Canvas, the game features intuitive left/right arrow controls, collision detection, and a scoring system that combines distance traveled with fish collectibles.\nThe primary purpose of this app is to:\n\nDeliver a fast-paced, addictive endless runner with simple controls\nDemonstrate HTML5 Canvas game development techniques\nShowcase procedural obstacle generation and collision detection\nProvide an engaging arctic-themed gaming experience"
+  },
+  {
+    "objectID": "projects/project-1.html#overview",
+    "href": "projects/project-1.html#overview",
+    "title": "Penguin Surf Dash",
+    "section": "",
+    "text": "Penguin Surf Dash is an endless runner game inspired by Temple Run, where players control a penguin skiing down icy slopes through procedurally generated obstacles. Built with vanilla JavaScript and HTML5 Canvas, the game features intuitive left/right arrow controls, collision detection, and a scoring system that combines distance traveled with fish collectibles.\nThe primary purpose of this app is to:\n\nDeliver a fast-paced, addictive endless runner with simple controls\nDemonstrate HTML5 Canvas game development techniques\nShowcase procedural obstacle generation and collision detection\nProvide an engaging arctic-themed gaming experience"
+  },
+  {
+    "objectID": "projects/project-1.html#live-product-demo",
+    "href": "projects/project-1.html#live-product-demo",
+    "title": "Penguin Surf Dash",
+    "section": "Live Product Demo",
+    "text": "Live Product Demo\n\n   Open App in New Tab \n   View source on GitHub \n\n\n\n\n🎮 Play Penguin Surf Dash\n\n\nClick the “Open App in New Tab” button above to play the game.\n\n\nNote: Due to security restrictions, the game cannot be embedded directly but works perfectly in its own tab.\n\n 🐧 Launch Game"
+  },
+  {
+    "objectID": "projects/project-1.html#technical-details",
+    "href": "projects/project-1.html#technical-details",
+    "title": "Penguin Surf Dash",
+    "section": "Technical Details",
+    "text": "Technical Details\nFramework/Stack: Vanilla JavaScript, HTML5 Canvas, CSS3\nGame Features: - Lane-based movement system with three lanes - Procedural obstacle generation - Dynamic speed scaling with increasing difficulty - Collision detection and game state management - Score tracking (distance + collectibles)\nDeployment: Ready for GitHub Pages or Vercel deployment\nTools Used: - Claude Code for development assistance - HTML5 Canvas for rendering - Vanilla JavaScript for game logic"
+  },
+  {
+    "objectID": "projects/project-1.html#product-requirements-document",
+    "href": "projects/project-1.html#product-requirements-document",
+    "title": "Penguin Surf Dash",
+    "section": "Product Requirements Document",
+    "text": "Product Requirements Document"
+  },
+  {
+    "objectID": "projects/project-1.html#overview-1",
+    "href": "projects/project-1.html#overview-1",
+    "title": "Penguin Surf Dash",
+    "section": "1. Overview",
+    "text": "1. Overview\n\nSummary\nPenguin Surf Dash is an endless runner game inspired by Temple Run, where the player controls a penguin riding a surfboard through an icy obstacle course. The player uses arrow keys to make quick decisions—jumping, sliding, and dodging obstacles—while racing to achieve the highest score possible.\n\n\nGoals\n\nDeliver a fast-paced, addictive endless runner\nKeep controls intuitive and responsive\nUse a unique penguin-and-surfboard theme to differentiate from similar games"
+  },
+  {
+    "objectID": "projects/project-1.html#core-gameplay",
+    "href": "projects/project-1.html#core-gameplay",
+    "title": "Penguin Surf Dash",
+    "section": "2. Core Gameplay",
+    "text": "2. Core Gameplay\n\nControls\n\nLeft Arrow → Move left lane\nRight Arrow → Move right lane\nSpace → Start game\n\n\n\nGame Loop\n\nPlayer starts at the top of an icy slope with the penguin already in motion\nObstacles and pathways are procedurally generated to increase replayability\nThe penguin accelerates gradually, making reaction times shorter as the run continues\nThe run ends if the penguin crashes into an obstacle\n\n\n\nScoring System\n\nDistance traveled: Primary score metric\nCollectibles: Fish tokens scattered on the path give bonus points\nCombined Score: Distance + fish collection for final score"
+  },
+  {
+    "objectID": "projects/project-1.html#technical-implementation",
+    "href": "projects/project-1.html#technical-implementation",
+    "title": "Penguin Surf Dash",
+    "section": "3. Technical Implementation",
+    "text": "3. Technical Implementation\n\nCurrent Features\n\nThree-lane movement system\nProcedural obstacle generation\nProgressive speed increase\nCollision detection\nScore and distance tracking\nGame over and restart functionality\n\n\n\nFuture Enhancements\n\nPower-ups (speed boost, invincibility shield, magnet for fish)\nDaily challenges/quests\nCharacter customization (different surfboard designs, outfits)\nMultiplayer leaderboards"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "LinkedIn    GitHub"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\nI’m a product-minded builder with a passion for solving real problems through thoughtful, user-centered design. While in BYU’s Sandbox program, I led the development and go-to-market efforts for an asset management tool tailored to private equity firms. Over the course of a year, I worked closely with end users to identify pain points, translate insights into product requirements, and deliver solutions that improved their workflows.\nThis experience sharpened my skills in product discovery, user research, stakeholder communication, and iterative development. I thrive at the intersection of user needs, business goals, and technical feasibility—and I’m energized by the challenge of turning complex problems into intuitive products.\n\nEducation\n\nBusiness Strategy, BYU 2026\nRelevant Coursework: List key courses related to product management, analytics, or business\nAcademic Achievements: Honor societies, relevant projects, or awards\n\n\n\nExperience\n\nEcommerce Manager - Andar Leather Goods\nApr 2025 - Present\n\nManaged product development and marketing teams to deploy new distribution methods projected to increase annual revenue by 3%\nDesigned, tested, and shipped low-fidelity prototypes to validate assumptions and improve conversion flows, boosting performance by 1%\nOverhauled Shopify design tools, reducing time-to-launch for landing pages by 30%\n\n\n\nCo-Founder, Product Manager - Angler Data\nSep 2024 - Jun 2025\n\nSpearheaded product development, initial customer acquisition, and partnership/integration with 10+ data systems\nDeveloped and implemented business strategies regarding market research, team leadership, and operational workflows, resulting in a successful MVP launch with five active users\nSynthesized qualitative insights into clear feature requirements, prioritizing development based on impact and technical feasibility\nCo-developed front-end using HTML, Python, and JavaScript, for rapid iteration of user-facing workflows\n\n\n\n\nSkills & Interests\nTechnical Skills - Programming languages (Python, HTML, SQL) - Analytics tools (Tableau, Power BI, Google Analytics) - Product management tools (Jira, Figma)\nSoft Skills - Leadership - Cross-functional collaboration - Strategic thinking and problem-solving\nInterests Skiing, Mountain Biking, and Trail Running\n  Follow me on Strava \n\n\nWhat’s Next\nI am looking for opportunities in Product Management."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Product Management Portfolio",
+    "section": "",
+    "text": "LinkedIn    GitHub"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome to My Product Management Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nPenguin Surf Dash\nAn endless runner game built with vanilla JavaScript and HTML5 Canvas where players control a penguin skiing down icy slopes, dodging obstacles and collecting fish."
+  },
+  {
+    "objectID": "projects/project-2.html",
+    "href": "projects/project-2.html",
+    "title": "Business Case Presentation",
+    "section": "",
+    "text": "This project focused on developing a comprehensive business case and pitch presentation for a new product opportunity. The assignment required identifying a market need, analyzing the opportunity, and presenting a compelling case for why the product should be built and funded."
+  },
+  {
+    "objectID": "projects/project-2.html#assignment-overview",
+    "href": "projects/project-2.html#assignment-overview",
+    "title": "Business Case Presentation",
+    "section": "",
+    "text": "This project focused on developing a comprehensive business case and pitch presentation for a new product opportunity. The assignment required identifying a market need, analyzing the opportunity, and presenting a compelling case for why the product should be built and funded."
+  },
+  {
+    "objectID": "projects/project-2.html#executive-summary",
+    "href": "projects/project-2.html#executive-summary",
+    "title": "Business Case Presentation",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nProduct Concept: [Brief description of your proposed product/service]\nMarket Opportunity: [Size and growth potential of target market]\nInvestment Required: [Estimated funding needed]\nExpected Return: [Projected revenue and profitability timeline]\nRecommendation: [Clear go/no-go recommendation with supporting rationale]"
+  },
+  {
+    "objectID": "projects/project-2.html#problem-statement",
+    "href": "projects/project-2.html#problem-statement",
+    "title": "Business Case Presentation",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n\nMarket Problem\n\nIssue Identification: What specific problem does your product solve?\nTarget Audience: Who experiences this problem most acutely?\nCurrent Solutions: How are people solving this problem today?\nGap Analysis: What’s missing from existing solutions?\n\n\n\nQuantifying the Problem\n\nMarket Size: How many people/organizations face this issue?\nEconomic Impact: What does this problem cost users currently?\nUrgency: Why is now the right time to solve this problem?\nEvidence: What data supports the existence and scale of this problem?"
+  },
+  {
+    "objectID": "projects/project-2.html#market-analysis",
+    "href": "projects/project-2.html#market-analysis",
+    "title": "Business Case Presentation",
+    "section": "Market Analysis",
+    "text": "Market Analysis\n\nIndustry Overview\n\nMarket Size: Total Addressable Market (TAM), Serviceable Addressable Market (SAM)\nGrowth Trends: Historical growth rates and future projections\nKey Drivers: What factors are driving market growth?\nMarket Maturity: Where is this market in its lifecycle?\n\n\n\nCompetitive Landscape\n\nDirect Competitors: Who offers similar solutions?\nIndirect Competitors: What alternative approaches exist?\nCompetitive Advantages: How will you differentiate?\nMarket Positioning: Where will you fit in the competitive landscape?\n\n\n\nCustomer Analysis\n\nTarget Segments: Primary and secondary customer groups\nUser Personas: Detailed profiles of ideal customers\nBuying Behavior: How do customers make purchase decisions?\nPrice Sensitivity: What are customers willing to pay?"
+  },
+  {
+    "objectID": "projects/project-2.html#solution-overview",
+    "href": "projects/project-2.html#solution-overview",
+    "title": "Business Case Presentation",
+    "section": "Solution Overview",
+    "text": "Solution Overview\n\nProduct Vision\n\nCore Value Proposition: What unique value do you provide?\nKey Features: What are the essential product capabilities?\nUser Experience: How will customers interact with your product?\nDifferentiation: What makes your solution superior?\n\n\n\nProduct Strategy\n\nDevelopment Approach: Build vs. buy vs. partner decisions\nTechnology Stack: What technical foundation will you use?\nScalability: How will the product grow with demand?\nInnovation: What makes this solution innovative?"
+  },
+  {
+    "objectID": "projects/project-2.html#business-model",
+    "href": "projects/project-2.html#business-model",
+    "title": "Business Case Presentation",
+    "section": "Business Model",
+    "text": "Business Model\n\nRevenue Model\n\nPricing Strategy: How will you price your product?\nRevenue Streams: What are your sources of income?\nCustomer Acquisition: How will you attract customers?\nUnit Economics: What are your cost and revenue per customer?\n\n\n\nFinancial Projections\n\nRevenue Forecast: 3-5 year revenue projections\nCost Structure: Development, operational, and marketing costs\nProfitability Timeline: When will you reach break-even?\nInvestment Requirements: Funding needed for different milestones\n\n\n\nGo-to-Market Strategy\n\nLaunch Strategy: How will you introduce the product?\nMarketing Channels: How will you reach customers?\nSales Strategy: Direct, partner, or hybrid approach?\nCustomer Success: How will you ensure customer satisfaction?"
+  },
+  {
+    "objectID": "projects/project-2.html#implementation-plan",
+    "href": "projects/project-2.html#implementation-plan",
+    "title": "Business Case Presentation",
+    "section": "Implementation Plan",
+    "text": "Implementation Plan\n\nDevelopment Roadmap\n\nPhase 1: MVP development and initial testing\nPhase 2: Full product launch and market entry\n\nPhase 3: Scale and expansion opportunities\nMilestones: Key deliverables and timeline\n\n\n\nResource Requirements\n\nTeam Structure: What roles and skills are needed?\nTechnology Infrastructure: What systems and tools are required?\nCapital Requirements: Funding needs by phase\nStrategic Partnerships: What alliances will accelerate success?\n\n\n\nRisk Analysis\n\nMarket Risks: What could change in the market?\nTechnical Risks: What development challenges might arise?\nCompetitive Risks: How might competitors respond?\nMitigation Strategies: How will you address each risk?"
+  },
+  {
+    "objectID": "projects/project-2.html#success-metrics",
+    "href": "projects/project-2.html#success-metrics",
+    "title": "Business Case Presentation",
+    "section": "Success Metrics",
+    "text": "Success Metrics\n\nKey Performance Indicators\n\nCustomer Metrics: Acquisition, retention, satisfaction\nBusiness Metrics: Revenue, profitability, market share\nProduct Metrics: Usage, engagement, feature adoption\nOperational Metrics: Efficiency, quality, scalability\n\n\n\nSuccess Criteria\n\nShort-term (6 months): [Specific measurable goals]\nMedium-term (1-2 years): [Growth and market position targets]\nLong-term (3-5 years): [Vision achievement and expansion goals]"
+  },
+  {
+    "objectID": "projects/project-2.html#investment-recommendation",
+    "href": "projects/project-2.html#investment-recommendation",
+    "title": "Business Case Presentation",
+    "section": "Investment Recommendation",
+    "text": "Investment Recommendation\n\nCase for Investment\n\nMarket Opportunity: Large, growing market with clear need\nCompetitive Advantage: Defensible differentiation and positioning\nTeam Capability: Right skills and experience to execute\nFinancial Returns: Attractive risk-adjusted return potential\nStrategic Fit: Aligns with organizational goals and capabilities\n\n\n\nExpected Outcomes\n\nRevenue Impact: [Projected revenue contribution]\nMarket Position: [Expected market share and positioning]\nStrategic Value: [Broader organizational benefits]\nGrowth Platform: [Future expansion opportunities]"
+  },
+  {
+    "objectID": "projects/project-2.html#next-steps",
+    "href": "projects/project-2.html#next-steps",
+    "title": "Business Case Presentation",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nImmediate Actions (30 days)\n\nSecure initial funding/approval\nFinalize team structure and hiring\nComplete technical feasibility analysis\nDevelop detailed project plan\n\n\n\nShort-term Milestones (90 days)\n\nComplete market validation research\nBuild MVP and conduct user testing\nEstablish key partnerships\nRefine go-to-market strategy\n\n\n\nLong-term Goals (1 year)\n\nLaunch product to target market\nAchieve customer acquisition targets\nDemonstrate product-market fit\nPlan expansion opportunities"
+  },
+  {
+    "objectID": "projects/project-2.html#appendices",
+    "href": "projects/project-2.html#appendices",
+    "title": "Business Case Presentation",
+    "section": "Appendices",
+    "text": "Appendices\n\nSupporting Data\n\nMarket research reports and analysis\nCustomer interview findings\nCompetitive analysis details\nFinancial model assumptions\n\n\n\nPresentation Materials\n\nSlide Deck: [Link to presentation slides]\nExecutive Summary: [One-page business case summary]\n\nFinancial Model: [Detailed financial projections]\nSupporting Research: [Market data and analysis]\n\n\nSkills Demonstrated: Business Strategy, Market Analysis, Financial Modeling, Presentation Design, Strategic Planning\nTools Used: PowerPoint/Keynote, Excel/Google Sheets, Market Research Databases, Survey Tools"
+  },
+  {
+    "objectID": "projects/project-4.html",
+    "href": "projects/project-4.html",
+    "title": "Project 4",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your fourth project."
+  },
+  {
+    "objectID": "projects/project-4.html#project-overview",
+    "href": "projects/project-4.html#project-overview",
+    "title": "Project 4",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your fourth project."
+  },
+  {
+    "objectID": "projects/project-4.html#challenge",
+    "href": "projects/project-4.html#challenge",
+    "title": "Project 4",
+    "section": "Challenge",
+    "text": "Challenge\nDescribe the specific challenge or problem you were addressing."
+  },
+  {
+    "objectID": "projects/project-4.html#approach",
+    "href": "projects/project-4.html#approach",
+    "title": "Project 4",
+    "section": "Approach",
+    "text": "Approach\nDetail your methodology and approach to solving the problem."
+  },
+  {
+    "objectID": "projects/project-4.html#results",
+    "href": "projects/project-4.html#results",
+    "title": "Project 4",
+    "section": "Results",
+    "text": "Results\nPresent your findings, outcomes, and impact."
+  },
+  {
+    "objectID": "projects/project-4.html#skills-demonstrated",
+    "href": "projects/project-4.html#skills-demonstrated",
+    "title": "Project 4",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nList the key skills this project showcases.\n\nSkills Demonstrated: [Your skills here]\nTools Used: [Your tools here]"
+  },
+  {
+    "objectID": "projects/project-6.html",
+    "href": "projects/project-6.html",
+    "title": "Project 6",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your sixth project."
+  },
+  {
+    "objectID": "projects/project-6.html#project-overview",
+    "href": "projects/project-6.html#project-overview",
+    "title": "Project 6",
+    "section": "",
+    "text": "Replace this content with your actual project details. This is a placeholder template for your sixth project."
+  },
+  {
+    "objectID": "projects/project-6.html#challenge",
+    "href": "projects/project-6.html#challenge",
+    "title": "Project 6",
+    "section": "Challenge",
+    "text": "Challenge\nDescribe the specific challenge or problem you were addressing."
+  },
+  {
+    "objectID": "projects/project-6.html#approach",
+    "href": "projects/project-6.html#approach",
+    "title": "Project 6",
+    "section": "Approach",
+    "text": "Approach\nDetail your methodology and approach to solving the problem."
+  },
+  {
+    "objectID": "projects/project-6.html#results",
+    "href": "projects/project-6.html#results",
+    "title": "Project 6",
+    "section": "Results",
+    "text": "Results\nPresent your findings, outcomes, and impact."
+  },
+  {
+    "objectID": "projects/project-6.html#skills-demonstrated",
+    "href": "projects/project-6.html#skills-demonstrated",
+    "title": "Project 6",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nList the key skills this project showcases.\n\nSkills Demonstrated: [Your skills here]\nTools Used: [Your tools here]"
+  }
+]

@@ -1,0 +1,346 @@
+/* Custom styles inspired by Claude's clean design */
+/* Clean, modern color palette */
+
+:root {
+  --background-primary: #ffffff;
+  --background-secondary: #f8fafc;
+  --background-tertiary: #f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-tertiary: #64748b;
+  --accent-orange: #ff6b35;
+  --accent-orange-hover: #e55a2b;
+  --border-light: #e2e8f0;
+  --border-medium: #cbd5e1;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
+
+/* Set clean, modern background */
+body {
+  background-color: var(--background-primary);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  line-height: 1.6;
+}
+
+/* Improve overall layout and spacing */
+.quarto-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Clean navigation inspired by Claude */
+.navbar {
+  padding: 1rem 0;
+  background-color: var(--background-primary) !important;
+  border-bottom: 1px solid var(--border-light);
+  box-shadow: var(--shadow-sm);
+}
+
+.navbar-nav {
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--text-primary) !important;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text-secondary) !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+  padding: 0.5rem 1rem !important;
+  border-radius: 6px;
+  margin: 0 0.25rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--accent-orange) !important;
+  background-color: var(--background-secondary);
+}
+
+/* Improve main content spacing */
+.quarto-title-banner {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.quarto-title-block .quarto-title {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.quarto-title-block .quarto-title h1 {
+  text-align: center;
+}
+
+/* Center the subtitle and other title elements */
+.quarto-title-block .description {
+  text-align: center;
+}
+
+.quarto-title-block .quarto-categories {
+  justify-content: center;
+}
+
+/* Clean hero banner inspired by Claude */
+.hero-banner {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--background-secondary);
+  border-radius: 16px;
+  margin-bottom: 3rem;
+  border: 1px solid var(--border-light);
+  box-shadow: var(--shadow-md);
+}
+
+.hero-banner h1 {
+  font-size: 2.75rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  letter-spacing: -0.025em;
+}
+
+.hero-banner h2 {
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  margin-top: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-banner .btn {
+  margin: 0.25rem;
+  text-decoration: none;
+}
+
+.hero-banner .btn:hover {
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Better spacing for main content */
+main {
+  padding: 2rem 0;
+  line-height: 1.6;
+}
+
+/* Clean project cards inspired by Claude */
+.grid {
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.g-col-12.g-col-md-6 {
+  padding: 2rem;
+  border: 1px solid var(--border-light);
+  border-radius: 12px;
+  background: var(--background-primary);
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.g-col-12.g-col-md-6:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-medium);
+}
+
+.g-col-12.g-col-md-6 h3 {
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+
+.g-col-12.g-col-md-6 p {
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Improve typography */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+/* Better paragraph spacing */
+p {
+  margin-bottom: 1.2rem;
+}
+
+/* Improve list styling */
+ul, ol {
+  margin-bottom: 1.5rem;
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Skills section styling */
+.skills-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills-list li {
+  margin-bottom: 0.8rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.skills-list li::before {
+  content: "▶";
+  color: #007bff;
+  position: absolute;
+  left: 0;
+}
+
+/* About page improvements */
+.about-contents {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .quarto-container {
+    padding: 0 15px;
+  }
+  
+  .grid {
+    gap: 1rem;
+  }
+  
+  .g-col-12.g-col-md-6 {
+    padding: 1rem;
+  }
+  
+  main {
+    padding: 1rem 0;
+  }
+}
+
+/* Footer spacing */
+.nav-footer {
+  margin-top: 3rem;
+  padding: 2rem 0;
+  border-top: 1px solid #e9ecef;
+}
+
+/* Clean link and button styling inspired by Claude */
+a {
+  text-decoration: none;
+  color: var(--accent-orange);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-orange-hover);
+}
+
+/* Button styling with Claude-inspired orange accent */
+.btn-primary {
+  background-color: var(--accent-orange) !important;
+  border-color: var(--accent-orange) !important;
+  color: white !important;
+  font-weight: 500;
+  padding: 0.625rem 1.25rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-orange-hover) !important;
+  border-color: var(--accent-orange-hover) !important;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-outline-primary {
+  color: var(--accent-orange) !important;
+  border-color: var(--border-medium) !important;
+  background-color: transparent !important;
+  font-weight: 500;
+  padding: 0.625rem 1.25rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--background-secondary) !important;
+  border-color: var(--accent-orange) !important;
+  color: var(--accent-orange) !important;
+}
+
+/* Code block styling */
+pre {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+/* Table styling */
+table {
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 0.75rem;
+  border: 1px solid #dee2e6;
+  text-align: left;
+}
+
+th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+/* Image styling */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Profile image styling for about pages */
+.about-image {
+  border-radius: 50%;
+  max-width: 200px;
+  margin: 0 auto 2rem;
+  display: block;
+}
