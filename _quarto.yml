@@ -4,7 +4,7 @@ project:
 
 website:
   title: ""
-  favicon: images/prototyping-favicon.png
+  favicon: images/favicon.png
   navbar:
     background: primary
     left:
@@ -35,3 +35,5 @@ format:
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' https: data: blob:; frame-src 'self' https://*.vercel.app https://vercel.app;">
+          <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">

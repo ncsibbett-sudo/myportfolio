@@ -37,18 +37,38 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<!-- Game iframe may be blocked by security policies, use the button above to play -->
-<div class="text-center p-4 bg-light rounded">
-  <h4>🎮 Play Penguin Surf Dash</h4>
-  <p>Click the "Open App in New Tab" button above to play the game.</p>
-  <p><em>Note: Due to security restrictions, the game cannot be embedded directly but works perfectly in its own tab.</em></p>
+## 🎮 Play Penguin Surf Dash
 
-  <a class="btn btn-primary btn-lg"
+Play the game directly in your browser below, or click the button to open in a new tab for fullscreen experience:
+
+```{=html}
+<div class="text-center my-4">
+  <div class="game-container mb-4" style="border: 2px solid #dee2e6; border-radius: 8px; overflow: hidden; background: #f8f9fa;">
+    <iframe
+      src="https://myfirstapp-chha84ccq-nate-sibbetts-projects.vercel.app"
+      width="100%"
+      height="600"
+      frameborder="0"
+      scrolling="no"
+      title="Penguin Surf Dash Game"
+      allow="gamepad; keyboard-map; fullscreen"
+      sandbox="allow-scripts allow-same-origin allow-forms"
+      loading="lazy"
+      style="display: block; border: none;">
+      Your browser doesn't support iframes. Please <a href="https://myfirstapp-chha84ccq-nate-sibbetts-projects.vercel.app" target="_blank">click here to play</a>.
+    </iframe>
+  </div>
+
+  <a class="btn btn-primary d-inline-flex align-items-center"
      href="https://myfirstapp-chha84ccq-nate-sibbetts-projects.vercel.app"
-     target="_blank" rel="noopener">
-    🐧 Launch Game
+     target="_blank" rel="noopener"
+     style="font-size: 1.1rem;">
+    <i class="fa-solid fa-expand me-2"></i>
+    🐧 Open Fullscreen
   </a>
+  <p class="mt-2 text-muted">Use arrow keys to control the penguin!</p>
 </div>
+```
 
 ## Technical Details
 
