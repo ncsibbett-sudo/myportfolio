@@ -61,6 +61,10 @@ This experience sharpened my skills in product discovery, user research, stakeho
 **Interests**
 Skiing, Mountain Biking, and Trail Running
 
+<a href="https://strava.com/athletes/44932160" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fab fa-strava"></i> Follow me on Strava
+</a>
+
 ### What's Next
 
 I am looking for opportunities in Product Management.
