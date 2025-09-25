@@ -1,22 +1,28 @@
-/* Custom styles for cozy portfolio website */
-/* Warm color palette: tans, browns, blacks */
+/* Custom styles inspired by Claude's clean design */
+/* Clean, modern color palette */
 
 :root {
-  --warm-cream: #f7f3e9;
-  --light-tan: #e8dcc0;
-  --medium-tan: #d4c5a0;
-  --warm-brown: #8b6f47;
-  --dark-brown: #5d4e37;
-  --charcoal: #2c2c2c;
-  --deep-black: #1a1a1a;
-  --accent-gold: #c7a876;
+  --background-primary: #ffffff;
+  --background-secondary: #f8fafc;
+  --background-tertiary: #f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-tertiary: #64748b;
+  --accent-orange: #ff6b35;
+  --accent-orange-hover: #e55a2b;
+  --border-light: #e2e8f0;
+  --border-medium: #cbd5e1;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
 }
 
-/* Set overall warm background */
+/* Set clean, modern background */
 body {
-  background-color: var(--warm-cream);
-  color: var(--charcoal);
-  font-family: 'Georgia', 'Times New Roman', serif;
+  background-color: var(--background-primary);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  line-height: 1.6;
 }
 
 /* Improve overall layout and spacing */
@@ -26,11 +32,12 @@ body {
   padding: 0 20px;
 }
 
-/* Center and improve navigation with cozy styling */
+/* Clean navigation inspired by Claude */
 .navbar {
   padding: 1rem 0;
-  background-color: var(--dark-brown) !important;
-  border-bottom: 3px solid var(--accent-gold);
+  background-color: var(--background-primary) !important;
+  border-bottom: 1px solid var(--border-light);
+  box-shadow: var(--shadow-sm);
 }
 
 .navbar-nav {
@@ -41,17 +48,21 @@ body {
 .navbar-brand {
   font-weight: 600;
   font-size: 1.25rem;
-  color: var(--warm-cream) !important;
+  color: var(--text-primary) !important;
 }
 
 .navbar-nav .nav-link {
-  color: var(--light-tan) !important;
+  color: var(--text-secondary) !important;
   font-weight: 500;
-  transition: color 0.3s ease;
+  transition: color 0.2s ease;
+  padding: 0.5rem 1rem !important;
+  border-radius: 6px;
+  margin: 0 0.25rem;
 }
 
 .navbar-nav .nav-link:hover {
-  color: var(--accent-gold) !important;
+  color: var(--accent-orange) !important;
+  background-color: var(--background-secondary);
 }
 
 /* Improve main content spacing */
@@ -78,31 +89,34 @@ body {
   justify-content: center;
 }
 
-/* Hero banner styling with cozy warmth */
+/* Clean hero banner inspired by Claude */
 .hero-banner {
   text-align: center;
-  padding: 3rem 2rem;
-  background: linear-gradient(135deg, var(--light-tan) 0%, var(--medium-tan) 100%);
-  border-radius: 12px;
+  padding: 4rem 2rem;
+  background: var(--background-secondary);
+  border-radius: 16px;
   margin-bottom: 3rem;
-  border: 2px solid var(--accent-gold);
-  box-shadow: 0 8px 32px rgba(139, 111, 71, 0.15);
+  border: 1px solid var(--border-light);
+  box-shadow: var(--shadow-md);
 }
 
 .hero-banner h1 {
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   font-weight: 700;
-  color: var(--deep-black);
-  margin-bottom: 0.5rem;
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  letter-spacing: -0.025em;
 }
 
 .hero-banner h2 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   font-weight: 400;
-  color: var(--dark-brown);
+  color: var(--text-secondary);
   margin-bottom: 2rem;
   margin-top: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-banner .btn {
@@ -122,26 +136,35 @@ main {
   line-height: 1.6;
 }
 
-/* Improve project grid layout with cozy styling */
+/* Clean project cards inspired by Claude */
 .grid {
-  gap: 2rem;
+  gap: 1.5rem;
   margin: 2rem 0;
 }
 
 .g-col-12.g-col-md-6 {
-  padding: 1.5rem;
-  border: 2px solid var(--warm-brown);
+  padding: 2rem;
+  border: 1px solid var(--border-light);
   border-radius: 12px;
-  background: var(--light-tan);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 16px rgba(139, 111, 71, 0.1);
+  background: var(--background-primary);
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
 }
 
 .g-col-12.g-col-md-6:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(139, 111, 71, 0.2);
-  background: var(--medium-tan);
-  border-color: var(--accent-gold);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-medium);
+}
+
+.g-col-12.g-col-md-6 h3 {
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+
+.g-col-12.g-col-md-6 p {
+  color: var(--text-secondary);
+  line-height: 1.5;
 }
 
 /* Improve typography */
@@ -151,17 +174,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 3rem;
   margin-bottom: 1.5rem;
-  color: var(--dark-brown);
-  border-bottom: 2px solid var(--accent-gold);
-  padding-bottom: 0.5rem;
+  color: var(--text-primary);
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
 }
 
 h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  color: var(--warm-brown);
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  font-weight: 600;
 }
 
 /* Better paragraph spacing */
@@ -230,43 +256,50 @@ li {
   border-top: 1px solid #e9ecef;
 }
 
-/* Link styling with warm colors */
+/* Clean link and button styling inspired by Claude */
 a {
   text-decoration: none;
-  color: var(--warm-brown);
-  transition: color 0.3s ease;
+  color: var(--accent-orange);
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: var(--accent-gold);
-  text-decoration: underline;
+  color: var(--accent-orange-hover);
 }
 
-/* Button styling */
+/* Button styling with Claude-inspired orange accent */
 .btn-primary {
-  background-color: var(--warm-brown) !important;
-  border-color: var(--warm-brown) !important;
-  color: var(--warm-cream) !important;
-  transition: all 0.3s ease;
+  background-color: var(--accent-orange) !important;
+  border-color: var(--accent-orange) !important;
+  color: white !important;
+  font-weight: 500;
+  padding: 0.625rem 1.25rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-primary:hover {
-  background-color: var(--dark-brown) !important;
-  border-color: var(--accent-gold) !important;
+  background-color: var(--accent-orange-hover) !important;
+  border-color: var(--accent-orange-hover) !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(139, 111, 71, 0.3);
+  box-shadow: var(--shadow-md);
 }
 
 .btn-outline-primary {
-  color: var(--warm-brown) !important;
-  border-color: var(--warm-brown) !important;
+  color: var(--accent-orange) !important;
+  border-color: var(--border-medium) !important;
   background-color: transparent !important;
+  font-weight: 500;
+  padding: 0.625rem 1.25rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
 }
 
 .btn-outline-primary:hover {
-  background-color: var(--warm-brown) !important;
-  border-color: var(--accent-gold) !important;
-  color: var(--warm-cream) !important;
+  background-color: var(--background-secondary) !important;
+  border-color: var(--accent-orange) !important;
+  color: var(--accent-orange) !important;
 }
 
 /* Code block styling */
