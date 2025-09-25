@@ -37,10 +37,18 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<iframe src="https://myfirstapp-chha84ccq-nate-sibbetts-projects.vercel.app"
-        style="width:100%; height:900px; border:none;"
-        allowfullscreen>
-</iframe>
+<!-- Game iframe may be blocked by security policies, use the button above to play -->
+<div class="text-center p-4 bg-light rounded">
+  <h4>🎮 Play Penguin Surf Dash</h4>
+  <p>Click the "Open App in New Tab" button above to play the game.</p>
+  <p><em>Note: Due to security restrictions, the game cannot be embedded directly but works perfectly in its own tab.</em></p>
+
+  <a class="btn btn-primary btn-lg"
+     href="https://myfirstapp-chha84ccq-nate-sibbetts-projects.vercel.app"
+     target="_blank" rel="noopener">
+    🐧 Launch Game
+  </a>
+</div>
 
 ## Technical Details
 

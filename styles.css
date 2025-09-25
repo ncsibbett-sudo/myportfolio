@@ -1,4 +1,23 @@
-/* Custom styles for portfolio website */
+/* Custom styles for cozy portfolio website */
+/* Warm color palette: tans, browns, blacks */
+
+:root {
+  --warm-cream: #f7f3e9;
+  --light-tan: #e8dcc0;
+  --medium-tan: #d4c5a0;
+  --warm-brown: #8b6f47;
+  --dark-brown: #5d4e37;
+  --charcoal: #2c2c2c;
+  --deep-black: #1a1a1a;
+  --accent-gold: #c7a876;
+}
+
+/* Set overall warm background */
+body {
+  background-color: var(--warm-cream);
+  color: var(--charcoal);
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
 
 /* Improve overall layout and spacing */
 .quarto-container {
@@ -7,9 +26,11 @@
   padding: 0 20px;
 }
 
-/* Center and improve navigation */
+/* Center and improve navigation with cozy styling */
 .navbar {
   padding: 1rem 0;
+  background-color: var(--dark-brown) !important;
+  border-bottom: 3px solid var(--accent-gold);
 }
 
 .navbar-nav {
@@ -20,6 +41,17 @@
 .navbar-brand {
   font-weight: 600;
   font-size: 1.25rem;
+  color: var(--warm-cream) !important;
+}
+
+.navbar-nav .nav-link {
+  color: var(--light-tan) !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--accent-gold) !important;
 }
 
 /* Improve main content spacing */
@@ -46,27 +78,29 @@
   justify-content: center;
 }
 
-/* Hero banner styling */
+/* Hero banner styling with cozy warmth */
 .hero-banner {
   text-align: center;
   padding: 3rem 2rem;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  background: linear-gradient(135deg, var(--light-tan) 0%, var(--medium-tan) 100%);
   border-radius: 12px;
   margin-bottom: 3rem;
-  border: 1px solid #dee2e6;
+  border: 2px solid var(--accent-gold);
+  box-shadow: 0 8px 32px rgba(139, 111, 71, 0.15);
 }
 
 .hero-banner h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: var(--deep-black);
   margin-bottom: 0.5rem;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
 }
 
 .hero-banner h2 {
   font-size: 1.25rem;
   font-weight: 400;
-  color: #6c757d;
+  color: var(--dark-brown);
   margin-bottom: 2rem;
   margin-top: 0;
 }
@@ -88,7 +122,7 @@ main {
   line-height: 1.6;
 }
 
-/* Improve project grid layout */
+/* Improve project grid layout with cozy styling */
 .grid {
   gap: 2rem;
   margin: 2rem 0;
@@ -96,15 +130,18 @@ main {
 
 .g-col-12.g-col-md-6 {
   padding: 1.5rem;
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  background: #f8f9fa;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 2px solid var(--warm-brown);
+  border-radius: 12px;
+  background: var(--light-tan);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 16px rgba(139, 111, 71, 0.1);
 }
 
 .g-col-12.g-col-md-6:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(139, 111, 71, 0.2);
+  background: var(--medium-tan);
+  border-color: var(--accent-gold);
 }
 
 /* Improve typography */
@@ -116,13 +153,15 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   margin-top: 2rem;
   margin-bottom: 1.5rem;
-  color: #2c3e50;
+  color: var(--dark-brown);
+  border-bottom: 2px solid var(--accent-gold);
+  padding-bottom: 0.5rem;
 }
 
 h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  color: #34495e;
+  color: var(--warm-brown);
 }
 
 /* Better paragraph spacing */
@@ -191,16 +230,43 @@ li {
   border-top: 1px solid #e9ecef;
 }
 
-/* Link styling */
+/* Link styling with warm colors */
 a {
   text-decoration: none;
-  color: #007bff;
-  transition: color 0.2s ease;
+  color: var(--warm-brown);
+  transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #0056b3;
+  color: var(--accent-gold);
   text-decoration: underline;
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: var(--warm-brown) !important;
+  border-color: var(--warm-brown) !important;
+  color: var(--warm-cream) !important;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--dark-brown) !important;
+  border-color: var(--accent-gold) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(139, 111, 71, 0.3);
+}
+
+.btn-outline-primary {
+  color: var(--warm-brown) !important;
+  border-color: var(--warm-brown) !important;
+  background-color: transparent !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--warm-brown) !important;
+  border-color: var(--accent-gold) !important;
+  color: var(--warm-cream) !important;
 }
 
 /* Code block styling */
