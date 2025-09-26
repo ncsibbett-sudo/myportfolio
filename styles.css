@@ -343,4 +343,15 @@ img {
   max-width: 200px;
   margin: 0 auto 2rem;
   display: block;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+/* Profile image styling for hero section */
+.rounded-circle {
+  aspect-ratio: 1 !important;
+  object-fit: cover !important;
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 50% !important;
 }
