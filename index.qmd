@@ -21,7 +21,7 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Penguin Surf Dash](projects/project-1.qmd)
+### [Penguin Ski Dash](projects/project-1.qmd)
 An endless runner game built with vanilla JavaScript and HTML5 Canvas where players control a penguin skiing down icy slopes, dodging obstacles and collecting fish. 
 
 :::
