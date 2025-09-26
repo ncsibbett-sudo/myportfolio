@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penguin Surf Dash</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="gameContainer">
+        <div id="gameTitle">
+            <h1>🐧 Penguin Ski Dash ⛷️</h1>
+        </div>
+        
+        <div id="gameUI">
+            <div id="score">Score: <span id="scoreValue">0</span></div>
+            <div id="distance">Distance: <span id="distanceValue">0</span>m</div>
+            <div id="fish">Fish: <span id="fishValue">0</span></div>
+        </div>
+        
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+        
+        <div id="instructions">
+            <h3>Controls:</h3>
+            <p>← Move Left | → Move Right</p>
+            <p>Ski down the slopes and dodge obstacles!</p>
+            <p>Press SPACE to start!</p>
+        </div>
+        
+        <div id="gameOverScreen" class="hidden">
+            <div id="gameOverContent">
+                <h2>Game Over!</h2>
+                <p>Final Score: <span id="finalScore">0</span></p>
+                <p>Distance: <span id="finalDistance">0</span>m</p>
+                <p>Fish Collected: <span id="finalFish">0</span></p>
+                <button id="restartBtn">Play Again</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="game.js"></script>
+</body>
+</html>

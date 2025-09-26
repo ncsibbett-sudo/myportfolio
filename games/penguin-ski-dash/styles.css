@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #87CEEB, #B0E0E6, #F0F8FF);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#gameContainer {
+    position: relative;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+#gameTitle h1 {
+    color: #2C5F2D;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+#gameUI {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #2C5F2D;
+}
+
+#gameUI div {
+    font-size: 1.2em;
+}
+
+#gameCanvas {
+    border: 4px solid #4A90E2;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #E6F3FF, #CCE7FF);
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#instructions {
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    border-radius: 10px;
+    color: #2C5F2D;
+}
+
+#instructions h3 {
+    margin-bottom: 10px;
+    color: #1E3A8A;
+}
+
+#instructions p {
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+#gameOverScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+#gameOverScreen.hidden {
+    display: none;
+}
+
+#gameOverContent {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+#gameOverContent h2 {
+    color: #DC2626;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+#gameOverContent p {
+    font-size: 1.3em;
+    margin: 10px 0;
+    color: #2C5F2D;
+}
+
+#restartBtn {
+    background: linear-gradient(45deg, #4A90E2, #357ABD);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+}
+
+#restartBtn:hover {
+    background: linear-gradient(45deg, #357ABD, #2563EB);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+#restartBtn:active {
+    transform: translateY(0);
+}

@@ -1,0 +1,30 @@
+{
+  "game": {
+    "title": "Penguin Ski Dash",
+    "description": "Ski down the slopes and dodge obstacles!",
+    "version": "1.0.0",
+    "genre": "Endless Runner",
+    "platform": "Web",
+    "controls": {
+      "left": "← Arrow Key",
+      "right": "→ Arrow Key",
+      "start": "SPACE"
+    },
+    "features": [
+      "8-bit retro graphics",
+      "Obstacle avoidance gameplay",
+      "Fish collection system",
+      "Score and distance tracking"
+    ],
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "ui_elements": [
+      "Score counter",
+      "Distance tracker",
+      "Fish counter",
+      "Game over screen"
+    ]
+  }
+}
