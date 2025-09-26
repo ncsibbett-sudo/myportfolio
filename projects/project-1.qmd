@@ -1,12 +1,12 @@
 ---
-title: "Penguin Surf Dash"
+title: "Penguin Ski Dash"
 date: "2025-09-24"
 categories: [JavaScript, HTML5 Canvas, Game Development, Claude Code]
 ---
 
 ## Overview
 
-Penguin Surf Dash is an endless runner game inspired by Temple Run, where players control a penguin skiing down icy slopes through procedurally generated obstacles. Built with vanilla JavaScript and HTML5 Canvas, the game features intuitive left/right arrow controls, collision detection, and a scoring system that combines distance traveled with fish collectibles.
+Penguin Ski Dash is an endless runner game inspired by Temple Run, where players control a penguin skiing down icy slopes through procedurally generated obstacles. Built with vanilla JavaScript and HTML5 Canvas, the game features intuitive left/right arrow controls, collision detection, and a scoring system that combines distance traveled with fish collectibles.
 
 The primary purpose of this app is to:
 
@@ -37,7 +37,7 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-## 🎮 Play Penguin Surf Dash
+## 🎮 Play Penguin Ski Dash
 
 The game is available as a standalone web application. Click the button below to play:
 
@@ -47,7 +47,7 @@ The game is available as a standalone web application. Click the button below to
      target="_blank" rel="noopener"
      style="font-size: 1.2rem; padding: 15px 30px;">
     <i class="fa-solid fa-gamepad me-3"></i>
-    🐧 Play Penguin Surf Dash
+    🐧 Play Penguin Ski Dash
   </a>
 
   <p class="mt-3 text-muted">Opens in a new tab • Use arrow keys to control the penguin!</p>
@@ -75,19 +75,19 @@ The game is available as a standalone web application. Click the button below to
 
 # Product Requirements Document (PRD)
 
-**Title:** Penguin Surf Dash
+**Title:** Penguin Ski Dash
 **Version:** 1.0
 **Date:** September 12, 2025
 
 ## 1. Overview
 
 ### Summary
-Penguin Surf Dash is an endless runner game inspired by Temple Run, where the player controls a penguin riding a surfboard through an icy obstacle course. The player uses arrow keys to make quick decisions—jumping, sliding, and dodging obstacles—while racing to achieve the highest score possible.
+Penguin Ski Dash is an endless runner game inspired by Temple Run, where the player controls a penguin riding skis through an icy obstacle course. The player uses arrow keys to make quick decisions—jumping, sliding, and dodging obstacles—while racing to achieve the highest score possible.
 
 ### Goals
 - Deliver a fast-paced, addictive endless runner
 - Keep controls intuitive and responsive
-- Use a unique penguin-and-surfboard theme to differentiate from similar games
+- Use a unique penguin-and-skiing theme to differentiate from similar games
 
 ## 2. Core Gameplay
 
@@ -120,5 +120,5 @@ Penguin Surf Dash is an endless runner game inspired by Temple Run, where the pl
 ### Future Enhancements
 - Power-ups (speed boost, invincibility shield, magnet for fish)
 - Daily challenges/quests
-- Character customization (different surfboard designs, outfits)
+- Character customization (different ski designs, outfits)
 - Multiplayer leaderboards
